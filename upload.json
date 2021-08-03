@@ -3,7 +3,8 @@
     {
       "pattern": "*.png",
       "target": "generic-local/",
-      "recursive": "true"
+      "recursive": "true",
+      "flat": false
     }
   ]
 }
